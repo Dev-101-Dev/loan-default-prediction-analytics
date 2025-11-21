@@ -156,22 +156,6 @@ Since actual credit data was unavailable, a realistic synthetic dataset of **5,0
 - Python 3.8 or higher
 - pip package manager
 
-### **Step 1: Clone the Repository**
-```bash
-git clone https://github.com/YOUR-USERNAME/predicting-high-risk-borrowers.git
-cd predicting-high-risk-borrowers
-```
-
-### **Step 2: Install Required Libraries**
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
-```
-
-### **Step 3: Run the Analysis**
-Open the Jupyter Notebook or Python script to explore the analysis.
-
----
-
 ##  Analysis & Visualizations
 
 ### **Key Visualizations Created:**
