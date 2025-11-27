@@ -250,8 +250,5 @@ Please consider giving this repository a ⭐ star!
 
 <div align="center">
 
-**Built with ❤️ using Python and Data Science**
-
-*Making lending fair and accessible for blue-collar workers*
 
 </div>
